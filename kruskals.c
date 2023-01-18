@@ -1,3 +1,6 @@
+kruskals algorithm
+
+
 #include<stdio.h>
 #include<stdlib.h>
 int i,j,k,a,b,u,v,n,ne=1;
