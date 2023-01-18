@@ -1,3 +1,5 @@
+PRIMS ALGORITHM
+
 #include<stdio.h>
 int a, b, u, v, n, i, j, ne = 1;
 int visited[10] = {0}, min, mincost = 0, cost[10][10];
